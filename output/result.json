@@ -1,0 +1,49 @@
+{
+  "metadata": {
+    "documents": [
+      "Call for Applications SRIP 2025.pdf",
+      "E-Summit 2025 Documentation.pdf",
+      "pdf&rendition=1.pdf"
+    ],
+    "persona": "PhD researcher in Computational Biology",
+    "job_to_be_done": "Write a literature review focusing on methodologies, datasets, and performance benchmarks of graph neural networks.",
+    "timestamp": "2025-07-28T10:29:30.274198"
+  },
+  "relevant_sections": [
+    {
+      "document": "Call for Applications SRIP 2025.pdf",
+      "page": 1,
+      "section_title": "Full Document",
+      "importance_rank": 1
+    },
+    {
+      "document": "E-Summit 2025 Documentation.pdf",
+      "page": 1,
+      "section_title": "Full Document",
+      "importance_rank": 2
+    },
+    {
+      "document": "pdf&rendition=1.pdf",
+      "page": 1,
+      "section_title": "Full Document",
+      "importance_rank": 3
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Call for Applications SRIP 2025.pdf",
+      "page": 1,
+      "refined_text": "Call for Applications for IIIT-B Summer \nResearch Internship Program SRIP 2025 \n \nApplications are invited from interested students to the IIIT-B Summer Internship Program (SRIP) \n2025. This is a unique internship programme being offered at IIIT-B for giving engineering students \nan opportunity to work on a real-world funded research project. \nProgramme Details \nFurther details regarding SRIP 2025 are as follows: \nName of programme \nIIITB Summer Research Internship Program (SRIP) 2025 \nMinimum eligibility \nStudents who have completed (or completing) 2nd Year in \nBE/BTech/Integrated MTech can apply. Specific projects may \nhave additional minimum eligibility requirements. Open to \nIIIT-B students as well as students from other institutions. \nStipend and Certificate \nInternship certificate will be paid upon satisfactory completion \nof the internship. Where available, stipend will be notified in \nthe internship offer letter. \nInternship Dates \nA minimum of 8 weeks cumulative duration betwe..."
+    },
+    {
+      "document": "E-Summit 2025 Documentation.pdf",
+      "page": 1,
+      "refined_text": "Step up || Stand out || Start now\nDr K. Lakshmi Prasad\nDirector\nDr Sanjay Dubey\nPrincipal\nA.L Kishore\nFaculty Lead (E-Cell BVRIT)\nDr K Srinivasa Rao\nEDC & IIC Coordinator\nDr M.K Kaushik\nDirector\nInnovation & Entrepreneurship (VEDIC)\nRohith Sirpa\nManager-Incubations\nVishnu Venture Labs Foundation\nAnougna Routu\nGowtham Varma\nM Sri Priya\nCh Sai Sathvik\nE-CELL LEADS\nSri Ravichandran Rajagopal\nVice Chairman, SVES\nSri K Aditya Vissam\nSecretary, SVES\nSri K V Vishnu Raju\nChairman, SVES\nChief Patron\nPatrons\nE-SUMMIT\n2025\nTable of Contents\n15\n03\n04\nContact us\nAbout E-Cell BVRIT\nWhat we do?\nE-Summit 2025\n07\nAbout E-Cell BVRIT\nE-Cell BVRIT is a student-driven initiative that fosters innovation,\nleadership, and entrepreneurship. At E-Cell BVRIT, we organize\nworkshops, hackathons, and pitching competitions, connecting students\nwith industry experts and investors. By providing mentorship, funding,\nand hands-on startup exposure, E-Cell empowers students to turn ideas\ninto \nviable \nbusinesses \nwhile \np..."
+    },
+    {
+      "document": "pdf&rendition=1.pdf",
+      "page": 1,
+      "refined_text": " \nProject Report Analysis \n \nProject Name: Finance Tracker website \nCoordinator Name : Dr. P Kayal \n \n \n \n \n \n \n \n \n          G.Lochana - 23WH1A1295 \n \n \n \n \n \n \n \n \n          MD.Sumayya - 23WH1A12B4 \n \n \n \n \n \n \n \n \n          V.Varshitha - 23WH1A12C5 \n \n \n \n \n \n \n \n \n          U.Thejashwini - 23WH1A12C2 \n \n \n \n \n \n \n \n \n          K.Vrinda - 24WH1A1214 \n \n \n \nModule Specifications: \nWe have 4 main modules: \n\u25cf User \n \n\u25cf Budget \n \n\u25cf Category \n \n\u25cf SubCategory \n \n\u25cf Transaction \nEach module includes 3 main layers: \n\u25cf Model (Entity) \n \n\u25cf DAO/Repository (Persistence Layer) \n \n\u25cf Controller (Business/API Layer) \n \n \n \n \nUser: \n \n \n \n \n \n \nCategory: \n \n \n \n \n \n \n \nBudget: \n \nSubCategory: \n \n \n \n \n \n \n \n \n \n \nTransaction: \n \n \n \nCommon Functionalities across Modules \nEach module mostly follows this pattern: \n\u25cf Save (POST) \n \n\u25cf Update (PUT) \n \n\u25cf Delete (DELETE) \n \n\u25cf Get by ID (GET) \n \n\u25cf Get all (GET) \n \n \n \n \n \n \n \n \nEntity Relationship Diagram: \n \n \n \n \n \n \n \n \nData Flow Diagram: \n \n \n \n \n \nOUTPU..."
+    }
+  ]
+}
